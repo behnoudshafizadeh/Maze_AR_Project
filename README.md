@@ -215,12 +215,6 @@ void Update()
 
 The full technical project report is available here: [Maze_Report.pdf](Maze_Report.pdf)
 
----
-
-## Author
-
-**Behnoud Shafizadeh**
-Master's degree program — Robotics Engineering
 
 ---
 
