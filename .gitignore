@@ -1,0 +1,30 @@
+# Unity generated folders - safe to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Build output
+[Bb]uild/
+[Bb]uilds/
+
+# Package cache tarballs
+*.tgz
+
+# Unity meta files for ignored folders
+*.pidb.meta
+*.pdb.meta
+
+# VS / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.csproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
